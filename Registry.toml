@@ -1,0 +1,9 @@
+name = "JuliaConRegistry"
+uuid = "7e621752-a872-11e9-000f-adc80f1c9326"
+repo = "https://github.com/KristofferC/JuliaConRegistry.git"
+
+description = """
+Test registry for JuliaCon workshop
+"""
+
+[packages]
