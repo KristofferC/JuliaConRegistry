@@ -7,3 +7,4 @@ Test registry for JuliaCon workshop
 """
 
 [packages]
+686aa8c4-aafc-11e9-1d8b-1f3b8e97c54f = { name = "TestPackage", path = "T/TestPackage" }
