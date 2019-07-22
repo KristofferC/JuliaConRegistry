@@ -8,3 +8,4 @@ Test registry for JuliaCon workshop
 
 [packages]
 725b21d0-acad-11e9-06a9-9f16682ff4d6 = { name = "MyPackage", path = "M/MyPackage" }
+b4b65fde-acad-11e9-1657-e5fb27898dff = { name = "HTMLParser", path = "H/HTMLParser" }
