@@ -1,0 +1,3 @@
+name = "HTMLParser"
+uuid = "b4b65fde-acad-11e9-1657-e5fb27898dff"
+repo = "https://github.com/lawless-m/HTMLParser.jl.git"
