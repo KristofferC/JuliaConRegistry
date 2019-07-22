@@ -1,0 +1,3 @@
+name = "MyPackage"
+uuid = "725b21d0-acad-11e9-06a9-9f16682ff4d6"
+repo = "https://github.com/fredrikekre/MyPackage.jl.git"
